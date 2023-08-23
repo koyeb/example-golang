@@ -1,3 +1,3 @@
 module github.com/koyeb/example-golang
 
-go 1.19
+go 1.21
